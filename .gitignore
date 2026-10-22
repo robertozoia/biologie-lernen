@@ -1,0 +1,4 @@
+Bio.pdf
+*.pdf
+.claude/
+.DS_Store
